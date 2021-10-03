@@ -1,0 +1,88 @@
+.titulo{
+    padding: 80px;
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+:target:before {
+    content:"";
+    display:block;
+    height:90px; 
+    margin:-90px 0 0;
+}
+
+.custom-banner{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.custom-b2{
+    margin-top: 70px;
+}
+
+.custom-b3{
+    margin-top: 57px;
+    margin-bottom: 50px;
+}
+
+.cont-custom{
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.bg-gradient {
+    background-image: linear-gradient(15deg, #80d0c7 0%, #28719c 66%);
+}
+
+body{
+    background: #FFFFFF 
+    url("../img/fundo.jpg") 
+    no-repeat 
+    top fixed;
+    background-size:cover;
+}
+
+.imgcustom{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.textbanner{
+    text-align: center;
+    offset-position: 100px;
+}
+
+.cont-text{
+    padding-bottom: 30px;
+}
+
+.nav-white{
+    color: rgb(230, 230, 230) !important;
+}
+
+.carousel-marg{
+    margin-bottom: 35px;
+}
+
+.ca-cent{
+    height: auto;
+    width: auto;
+}
+
+.footer{
+	padding-top: 5px;
+}
+
+.footer h2{
+	color: #fff;
+	font-weight: 600px;
+	margin: 30px 0;
+}
+
+.mg-up{
+    margin-top: 30px;
+}
